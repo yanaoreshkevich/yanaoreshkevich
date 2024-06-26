@@ -1,24 +1,21 @@
 <h1 align="center">Hi there, I'm <span style="color:#2AA889">Yana</span>
       <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="hi"/> <img src="https://em-content.zobj.net/source/apple/81/female-technologist-type-1-2_1f469-1f3fb-200d-1f4bb.png" width="30" height="30">
 </h1>
-<h3 align="center">Beginner Software Test Engineer from Belarus</h3>
+<h3 align="center">Beginner QA Engineer from Belarus</h3>
 
 
 ## <span style="color:#2AA889">About Me</span>
 
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:Yaninaoreshkevich@gmail.com)
-![](https://visitor-badge.laobi.icu/badge?page_id=yanaoreshkevich.yanaoreshkevich)
+
 
 ## <span style="color:#2AA889">Social Media</span>
 <div id="badges">
-    <a href="https://t.me/raccoon91" style="text-decoration: none" target="_blank">
-      <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/telegram_logo_icon_147228.png" width="30" height="30" alt="telegram" />
-      </a>
     <a href="https://www.facebook.com/jana.masyugina/" style="text-decoration: none" target="_blank">
-      <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/facebook_logo_icon_147291.png" width="30" height="30" alt="facebook" />
+      <img src="https://cdn.icon-icons.com/icons2/2429/PNG/512/facebook_logo_icon_147291.png" width="30" height="30" alt="facebook"/>
       </a>
     <a href="https://discordapp.com/users/1078371853715914763/" style="text-decoration: none" target="_blank">
-      <img src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-discord-4661587_122459.png" width="30" height="30" alt="discord" />
+      <img src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-discord-4661587_122459.png" width="30" height="30" alt="discord"/>
     </a> 
   </div>
 
@@ -70,3 +67,6 @@
 ## <span style="color:#2AA889">My statistics</span>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yanaoreshkevich&theme=gotham" alt="statistic" width="530" height=160/>
+
+___
+![](https://visitor-badge.laobi.icu/badge?page_id=yanaoreshkevich.yanaoreshkevich)
