@@ -6,7 +6,17 @@
 
 ## <span style="color:#2AA889">About Me</span>
 
-[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:Yaninaoreshkevich@gmail.com)
+  Although I'm new to this field, I'm very interested in software quality and want to continue learning and developing in this direction. Here's a quick overview of my skills:
+
+- 👋 Manual testing
+- 💻 API testing 
+- 🛢️ SQL databases testing
+- 📱 Basic skills in testing Android applications
+- 📝Detail-oriented approach to creating and executing test cases
+
+Know about my experiences [My SV](http://example.com/ "CV")
+
+Reach me by [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:Yaninaoreshkevich@gmail.com)
 
 
 ## <span style="color:#2AA889">Social Media</span>
