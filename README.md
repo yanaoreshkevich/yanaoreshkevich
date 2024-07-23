@@ -6,7 +6,8 @@
 
 ## <span style="color:#2AA889">About Me</span>
 
-  Although I'm new to this field, I'm very interested in software quality and want to continue learning and developing in this direction. Here's a quick overview of my skills:
+  Although I'm new to this field, I'm very interested in software quality and want to continue learning and developing in this direction.   
+  Here's a quick overview of my skills:
 
 - 👋 Manual testing
 - 💻 API testing 
