@@ -14,9 +14,9 @@
 - 📱 Basic skills in testing Android applications
 - 📝Detail-oriented approach to creating and executing test cases
 
-Know about my experiences [My SV](http://example.com/ "CV")
+Know about my experiences [my SV](https://github.com/yanaoreshkevich/SV "CV")
 
-Reach me by [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:Yaninaoreshkevich@gmail.com)
+ Reach me by  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:Yaninaoreshkevich@gmail.com) [![LinkedIn Badge](https://img.shields.io/badge/-@yanaoreshkevich-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yanaoreshkevich/)
 
 
 ## <span style="color:#2AA889">Social Media</span>
