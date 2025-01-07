@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <span style="color:#2AA889">Yana</span>
-      <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="hi"/> <img src="https://em-content.zobj.net/source/apple/81/female-technologist-type-1-2_1f469-1f3fb-200d-1f4bb.png" width="30" height="30">
+      <img src="https://em-content.zobj.net/source/apple/81/female-technologist-type-1-2_1f469-1f3fb-200d-1f4bb.png" width="30" height="30">
 </h1>
 <h3 align="center">Beginner QA Engineer from Belarus</h3>
 
@@ -10,6 +10,7 @@
   Here's a quick overview of my skills:
 
 - 👋 Manual testing
+- 👩🏻‍💻 Automation testing (JS)
 - 💻 API testing 
 - 🛢️ SQL databases testing
 - 📱 Basic skills in testing Android applications
@@ -69,8 +70,15 @@ Know about my experiences [my SV](https://github.com/yanaoreshkevich/SV "CV")
     <a href="https://git-scm.com/" style="text-decoration: none" target="_blank">
       <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_logo_icon_146507.png" alt="git" width="28" height="28"/>
     </a>
+    <a href="https://code.visualstudio.com/" style="text-decoration: none" target="_blank">
+      <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189951.png" alt="vscode" width="31" height="31"/>
+    </a>
+    <a href="https://www.cypress.io/" style="text-decoration: none" target="_blank">
+      <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/cypress-icon-moigrz5nimpd7rsob0bisu.png/cypress-icon-pg9bdlubveoefqouilbg.png?_a=DAJFJtWIZAAC" alt="cypress" width="29" height="29"/>
+    </a>
 
 ## <span style="color:#2AA889">Basics Languages</span>
+  <img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" alt="html" width="25" height="28"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="html" width="30" height="30"/>&nbsp;
   <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="30" height="30"/>&nbsp;
 
