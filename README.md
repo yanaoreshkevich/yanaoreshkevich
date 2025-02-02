@@ -71,7 +71,7 @@ Know about my experiences [my SV](https://github.com/yanaoreshkevich/SV "CV")
       <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_plain_logo_icon_146507.png" alt="git" width="28" height="28"/>
     </a>
     <a href="https://code.visualstudio.com/" style="text-decoration: none" target="_blank">
-      <img src="icons/vscode_a_icon.png" alt="vscode" width="32" height="31"/>
+      <img src="icons/vscode_a_icon.png" alt="vscode" width="32" height="32"/>
     </a>
     <a href="https://www.cypress.io/" style="text-decoration: none" target="_blank">
       <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/cypress-icon-moigrz5nimpd7rsob0bisu.png/cypress-icon-pg9bdlubveoefqouilbg.png?_a=DAJFJtWIZAAC" alt="cypress" width="29" height="29"/>
