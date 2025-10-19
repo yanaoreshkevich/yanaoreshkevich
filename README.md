@@ -46,7 +46,7 @@ Know about my experiences [my SV](https://github.com/yanaoreshkevich/SV "CV")
       <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="postman" width="30" height="30"/>
     </a>
     <a href="https://swagger.io/" style="text-decoration: none" target="_blank">
-      <img src="https://seeklogo.com/images/S/swaggerhub-logo-52BE4455D6-seeklogo.com.png" alt="swagger" width="27" height="27"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/swagger.png" alt="swagger" width="27" height="27"/>
     </a>
     <a href="https://developer.chrome.com/" style="text-decoration: none" target="_blank">    
       <img src="https://cdn.icon-icons.com/icons2/2552/PNG/512/chrome_dev_browser_logo_icon_153006.png" alt="devtools" width="30" height="30"/>
@@ -64,7 +64,7 @@ Know about my experiences [my SV](https://github.com/yanaoreshkevich/SV "CV")
       <img src="https://anturis.com/wp-content/uploads/2022/09/Fiddler-Logo-1-184x184.png" alt="fiddler" width="28" height="28"/>
     </a>
     <a href="https://proxyman.io/" style="text-decoration: none" target="_blank">
-      <img src="https://proxyman.imgix.net/assets/images/AppIcon_v2.png?auto=format&fit=max&w=64" alt="proxyman" width="32" height="32"/>
+      <img src="https://cdn.jim-nielsen.com/macos/1024/proxyman-2022-11-22.png?rf=1024" alt="proxyman" width="32" height="32"/>
     </a>
       <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/gnu_bash_logo_icon_170079.png" alt="bash" width="32" height="32"/>
     <a href="https://git-scm.com/" style="text-decoration: none" target="_blank">
